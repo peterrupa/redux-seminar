@@ -1,0 +1,8 @@
+.task {
+    font-size: 0.5em;
+    margin: 0 15px;
+}
+
+.done {
+    text-decoration: line-through;
+}

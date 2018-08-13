@@ -1,0 +1,8 @@
+.unfinished-count {
+    font-size: 0.7em;
+}
+
+.TodoList ul {
+    list-style: none;
+    margin: 10px 0;
+}
